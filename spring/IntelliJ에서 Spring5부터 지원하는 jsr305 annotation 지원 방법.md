@@ -5,4 +5,4 @@
 3. 상단이 Nullable annotation, 하단이 NotNull annotation이며 + 버튼으로 intelliJ에서 인식할 annotation을 각각 추가한다.
 	* Nullable annotations : org.springframework.lang.Nullable 추가
 	* NotNull annotations : org.springframework.lang.NonNull 추가
-
+4. IntelliJ 재부팅
