@@ -19,6 +19,9 @@
 
 4. 
 		
+* 참고 사이트<br>
+	* <https://backlog.com/git-tutorial/kr/intro/intro1_1.html>
+	* <https://git-scm.com/book/ko/v2>
 
 
 
