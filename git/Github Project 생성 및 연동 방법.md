@@ -10,7 +10,7 @@
 	* public / private 선택 ( private 선택시 외부 공개 안됌)
 	* Initialize this repository with a README 선택 
 	* Create repository 버튼 클릭 
-<br>
+
 ![remote_repository_create](./img/remote_repository_create.png)
 
 ## Collaborators 추가 및 인증 
