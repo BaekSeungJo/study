@@ -4,9 +4,7 @@
 1. github.com 접속 
 2. Organization 계정으로 로그인
 3. New repository 클릭
-<br>
 4. Repository 정보 입력 및 생성
-
 	* Repository name
 	* Repository description 
 	* public / private 선택 ( private 선택시 외부 공개 안됌)
