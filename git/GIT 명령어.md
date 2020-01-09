@@ -4,7 +4,7 @@
 	1. Github Project 생성
 	2. 로컬에서 기존 브랜치 프로젝트 복사
 	3. 복사한 프로젝트 내에서 커맨트 창에서 명령어 입력<br/>
-		``` git push https://project_url.git current_branch_name:master 
+		``` git push https://project_url.git current_branch_name:master ```
 		
 		
 		
